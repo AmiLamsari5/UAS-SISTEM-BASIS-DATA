@@ -1,0 +1,33 @@
+body {
+    line-height:1;
+    font-size:100%;
+    font-family:'Lucida Sans', sans-serif;  
+    color:#5a5a5a;
+}
+#container{
+    font-family:'Lucida Sans', sans-serif;  
+    width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0 1em #cccccc;
+    background-image: url(1.jpg);
+}
+header {
+    font-family:'Lucida Sans', sans-serif;
+    font-size: 20px;
+    padding: 15px;
+}
+header h1 {
+    font-family:'Lucida Sans', sans-serif;
+    margin: 15px 10px;
+    color: #b5b5b5;
+}
+nav {
+    margin: 0 4px; 
+    font-size: 20px;
+    font-family:'Lucida Sans', sans-serif;
+    color: rgb(44, 44, 184);
+}
+table{
+    font-size: large;
+    font-family:'Lucida Sans', sans-serif;
+}
